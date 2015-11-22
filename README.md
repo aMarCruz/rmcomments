@@ -1,12 +1,10 @@
-#### rmcomments is deprecated
-Please use [jspreproc](https://github.com/aMarCruz/jspreproc)
+### rmcomments is deprecated, please use [jspreproc](https://aMarCruz.github.io/jspreproc)
 
-It is a source file preprocessor and comments remover for JavaScript, written in javascript.
+jspreproc is a tiny source file preprocessor and comments remover for JavaScript, written in javascript.
+It supports...
 
-jspreproc supports...
-
-* C-style conditional comments and defines (#if-else-endif, #define, #undef, etc)
-* File insertion with #include and #include_once statements
-* Comments remotion, all or selective using filters to keep JSDoc comments and directives for various linters.
+* C-Style conditional comments and definitions (`#if-else-endif`, `#set`, `#unset`, etc)
+* File insertion with `#include` and `#include_once` directives
+* Comment remotion, all or selective through custom or predefined filters
 * Configurable empty-line compactation and normalization
 * Command-line and node.js interfaces
