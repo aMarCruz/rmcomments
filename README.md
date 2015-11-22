@@ -1,6 +1,6 @@
 ### rmcomments is deprecated, please use [jspreproc](https://aMarCruz.github.io/jspreproc)
 
-jspreproc is a tiny source file preprocessor and comments remover for JavaScript, written in javascript.
+jspreproc is a tiny source file preprocessor and comments remover for JavaScript, written in JavaScript.
 It supports...
 
 * C-Style conditional comments and definitions (`#if-else-endif`, `#set`, `#unset`, etc)
